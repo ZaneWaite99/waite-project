@@ -1,0 +1,51 @@
+/*
+HEADER
+*/
+
+.title {
+	color: slategray;
+	text-align: left;
+	font-size: 2em;
+}
+
+.navigation li a {
+	text-decoration: none;
+	color: slategray;
+}
+
+.navigation li {
+	display: inline-block;
+	padding: 0px 50px;
+	font-size: 2em;
+}
+
+.navigation {
+	text-align: center;
+	display: inline-block;
+}
+
+
+/*
+IMAGES
+*/
+
+.icon img {
+	height: 50px;
+	width: 50px;
+}
+
+.icon {
+		display: inline-block;
+}
+
+.slideshow-images {
+	list-style-type: none;
+}
+
+/*
+BODY
+*/
+
+body {
+	background-color: powderblue;
+}
